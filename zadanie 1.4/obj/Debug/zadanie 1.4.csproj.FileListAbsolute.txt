@@ -1,0 +1,7 @@
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\bin\Debug\zadanie 1.4.exe.config
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\bin\Debug\zadanie 1.4.exe
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\bin\Debug\zadanie 1.4.pdb
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\obj\Debug\zadanie 1.4.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\obj\Debug\zadanie 1.4.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\obj\Debug\zadanie 1.4.exe
+C:\Users\developer\source\repos\PierwszeZajecia\zadanie 1.4\obj\Debug\zadanie 1.4.pdb

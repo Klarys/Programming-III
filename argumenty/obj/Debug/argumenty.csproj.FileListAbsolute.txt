@@ -1,0 +1,7 @@
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\bin\Debug\argumenty.exe.config
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\bin\Debug\argumenty.exe
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\bin\Debug\argumenty.pdb
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\obj\Debug\argumenty.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\obj\Debug\argumenty.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\obj\Debug\argumenty.exe
+C:\Users\developer\source\repos\PierwszeZajecia\argumenty\obj\Debug\argumenty.pdb
